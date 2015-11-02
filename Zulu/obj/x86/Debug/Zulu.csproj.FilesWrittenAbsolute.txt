@@ -1,0 +1,7 @@
+/home/caavere/Projects/Zulu/Zulu/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/caavere/Projects/Zulu/Zulu/bin/Debug/Zulu.exe.mdb
+/home/caavere/Projects/Zulu/Zulu/bin/Debug/Zulu.exe
+/home/caavere/Projects/Zulu/Zulu/obj/x86/Debug/Zulu.exe
+/home/caavere/Projects/Zulu/Zulu/obj/x86/Debug/Zulu.exe.mdb
+/home/caavere/Projects/Zulu/Zulu/bin/Debug/WebServer.dll
+/home/caavere/Projects/Zulu/Zulu/bin/Debug/WebServer.dll.mdb
